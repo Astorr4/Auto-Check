@@ -1,0 +1,26 @@
+.venv
+# PyInstaller сборка
+/build/
+/dist/
+*.spec
+# Виртуальное окружение
+/Lib/
+/Scripts/
+/AutoCheck_stable/
+/pyvenv.cfg
+# Логи приложения
+/Logs/
+# Файлы IDE и редакторов
+/.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Системные файлы
+.DS_Store
+Thumbs.db
+# Временные файлы
+*.swp
+*.swo
+*.log
+*~
